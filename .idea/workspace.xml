@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d650efa-374f-4546-97b1-1aef10036646" name="Default Changelist" comment="" />
+    <list default="true" id="0d650efa-374f-4546-97b1-1aef10036646" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -98,6 +100,9 @@
       <find>driver</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -130,6 +135,7 @@
     <option name="width" value="1400" />
     <option name="height" value="909" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <sortByType PackagesPane="true" />
@@ -155,6 +161,24 @@
               <item name="SoFiUITestAssesment" type="b2602c69:ProjectViewProjectNode" />
               <item name="SoFiUITestAssesment" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="SoFiUITestAssesment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SoFiUITestAssesment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SoFiUITestAssesment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SoFiUITestAssesment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SoFiUITestAssesment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SoFiUITestAssesment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -164,7 +188,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551848778836" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551850076954" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -227,17 +251,11 @@
       <workItem from="1551742818369" duration="5391000" />
       <workItem from="1551760735494" duration="7332000" />
       <workItem from="1551818686024" duration="4972000" />
-      <workItem from="1551848660144" duration="240000" />
+      <workItem from="1551848660144" duration="1412000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pages_SauceLabTests_tests - 2019.03.05 at 21h 00m 55s.xml">
-      <configuration name="pages.SauceLabTests.tests" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="pages_SauceLabTests_tests - 2019.03.05 at 21h 28m 34s.xml">
-      <configuration name="pages.SauceLabTests.tests" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="pages_SauceLabTests_tests - 2019.03.05 at 21h 34m 09s.xml">
       <configuration name="pages.SauceLabTests.tests" configurationId="JUnit" />
     </history-entry>
@@ -262,9 +280,15 @@
     <history-entry file="pages_SauceLabTests_tests - 2019.03.05 at 21h 52m 10s.xml">
       <configuration name="pages.SauceLabTests.tests" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="pages_SauceLabTests_tests - 2019.03.05 at 22h 05m 24s.xml">
+      <configuration name="pages.SauceLabTests.tests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="pages_SauceLabTests_tests - 2019.03.05 at 22h 16m 59s.xml">
+      <configuration name="pages.SauceLabTests.tests" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27697000" />
+    <option name="totallyTimeSpent" value="28869000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="112" y="34" width="1120" height="727" extended-state="0" />
