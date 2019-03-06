@@ -12,7 +12,7 @@ This project contains Selenium based UI tests on saucedemo.com as a part of SoFi
 * Go to the Edit Coniguration drop down in the Navigation bar and select Edit Coniguration. In the configurations window, under 'Use classpath of module' section, select sofi-ui-tes-assesment from the dropdown. Apply the changes in the configuration window.
 
 
-3. If want to change user credentials for saucedemo website in test, fill in the appropriate saucedemo user credentials in the {Project Root}src\test\resources\config.properties.
+3. If want to change user credentials for saucedemo website in test, fill in the appropriate saucedemo user credentials in the {Project Root}\src\test\resources\config.properties.
 
 All set!!
 
